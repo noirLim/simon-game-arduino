@@ -33,7 +33,7 @@ The Simon game is a classic electronic memory game that challenges players to re
 - lcd 16x2 with I2C Module
 
 - Jumper cable
-
+- Breadboard
 - Arduino Uno R3
 
 # Circuit Design
