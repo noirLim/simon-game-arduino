@@ -30,6 +30,8 @@ Buzzer 5V
 
 4 Leds
 
-[![Circuit-diagram]()]([https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE](https://www.tinkercad.com/things/hIxgxUKG1iI-simon-game-basic?sharecode=MWbiHiFtxk3cC9_Nde7Ek6cXGuo25MIQkeIMmH2ET5Q)https://www.tinkercad.com/things/hIxgxUKG1iI-simon-game-basic?sharecode=MWbiHiFtxk3cC9_Nde7Ek6cXGuo25MIQkeIMmH2ET5Q)
-
 Arduino Uno R3
+
+#Circuit Design
+
+Circuit design [Link]([https://www.example.com](https://www.tinkercad.com/things/hIxgxUKG1iI-simon-game-basic?sharecode=MWbiHiFtxk3cC9_Nde7Ek6cXGuo25MIQkeIMmH2ET5Q)https://www.tinkercad.com/things/hIxgxUKG1iI-simon-game-basic?sharecode=MWbiHiFtxk3cC9_Nde7Ek6cXGuo25MIQkeIMmH2ET5Q)
