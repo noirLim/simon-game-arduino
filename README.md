@@ -10,7 +10,7 @@ The Simon game is a classic electronic memory game that challenges players to re
 - [Image](#image)
 - [Demo](#demo)
 
-##Features
+#Features
 
 1 Four colorful buttons with corresponding LEDs 
 
@@ -20,7 +20,7 @@ The Simon game is a classic electronic memory game that challenges players to re
 
 4 Score Tracking
 
-##Materials
+#Materials
 
 4 Active Buttons
 
@@ -29,5 +29,7 @@ Buzzer 5V
 4 Resistors 220 ohm
 
 4 Leds
+
+[![Circuit-diagram]()]([https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE](https://www.tinkercad.com/things/hIxgxUKG1iI-simon-game-basic?sharecode=MWbiHiFtxk3cC9_Nde7Ek6cXGuo25MIQkeIMmH2ET5Q)https://www.tinkercad.com/things/hIxgxUKG1iI-simon-game-basic?sharecode=MWbiHiFtxk3cC9_Nde7Ek6cXGuo25MIQkeIMmH2ET5Q)
 
 Arduino Uno R3
