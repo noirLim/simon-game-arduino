@@ -34,4 +34,4 @@ Arduino Uno R3
 
 #Circuit Design
 
-[Link]([https://www.example.com](https://www.tinkercad.com/things/hIxgxUKG1iI-simon-game-basic?sharecode=MWbiHiFtxk3cC9_Nde7Ek6cXGuo25MIQkeIMmH2ET5Q)https://www.tinkercad.com/things/hIxgxUKG1iI-simon-game-basic?sharecode=MWbiHiFtxk3cC9_Nde7Ek6cXGuo25MIQkeIMmH2ET5Q)
+[Design]([https://www.example.com](https://www.tinkercad.com/things/hIxgxUKG1iI-simon-game-basic?sharecode=MWbiHiFtxk3cC9_Nde7Ek6cXGuo25MIQkeIMmH2ET5Q)https://www.tinkercad.com/things/hIxgxUKG1iI-simon-game-basic?sharecode=MWbiHiFtxk3cC9_Nde7Ek6cXGuo25MIQkeIMmH2ET5Q)
