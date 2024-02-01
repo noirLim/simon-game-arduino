@@ -2,7 +2,7 @@
 
 The Simon game is a classic electronic memory game that challenges players to repeat a sequence of colored lights and corresponding sounds. The game consists of a series of buttons, each associated with a unique color and sound.
 
-#Table of Contents
+# Table of Contents
 
 - [Features](#features)
 - [Materials](#materials)
@@ -10,28 +10,36 @@ The Simon game is a classic electronic memory game that challenges players to re
 - [Image](#image)
 - [Demo](#demo)
 
-#Features
+# Features
 
-1 Four colorful buttons with corresponding LEDs 
+- Four colorful buttons with corresponding LEDs 
 
-2 Buzzer for audio feedback
+- Buzzer for audio feedback
 
-3 Randomly generated light and sound patterns
+- Randomly generated light and sound patterns
 
-4 Score Tracking
+- 4 Score Tracking
 
-#Materials
+# Materials
 
-4 Active Buttons
+- 4 Active Buttons
 
-Buzzer 5V
+- Buzzer 5V
 
-4 Resistors 220 ohm
+- 4 Resistors 220 ohm
 
-4 Leds
+- 4 Leds
 
-Arduino Uno R3
+- lcd 16x2 with I2C Module 
 
-#Circuit Design
+- Jumper cable
 
-[Design]([https://www.example.com](https://www.tinkercad.com/things/hIxgxUKG1iI-simon-game-basic?sharecode=MWbiHiFtxk3cC9_Nde7Ek6cXGuo25MIQkeIMmH2ET5Q)https://www.tinkercad.com/things/hIxgxUKG1iI-simon-game-basic?sharecode=MWbiHiFtxk3cC9_Nde7Ek6cXGuo25MIQkeIMmH2ET5Q)
+- Arduino Uno R3
+
+# Circuit Design
+
+Access design from this [link](https://www.tinkercad.com/things/hIxgxUKG1iI-simon-game-basic?sharecode=MWbiHiFtxk3cC9_Nde7Ek6cXGuo25MIQkeIMmH2ET5Q)
+
+# Image
+
+![Simon-game](https://drive.google.com/file/d/1ND4JHX80aR4zL-aMNMFndZXf17OjJ4s3/view?usp=sharing)
